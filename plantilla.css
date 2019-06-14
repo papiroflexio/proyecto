@@ -1,0 +1,94 @@
+* {
+
+	margin: 0px;
+
+}
+
+.img {
+
+	max-width:100%;
+
+}
+
+body {
+
+	background-color: #808080;
+
+}
+
+.area {
+
+	width:400px;
+
+}
+
+.numPag {
+
+	display: none;
+
+}
+
+#inicioSesion {
+
+	color: white;
+
+}
+
+#paginaPrincipal {
+
+	color: white;
+
+}
+
+#area {
+
+	width: 100%;
+	height: 100px;
+
+}
+
+#areaInfo {
+
+	display: inline-block;
+
+}
+
+.nombNav {
+
+	border-right: 1px white solid !important;
+	color: white !important;
+
+}
+
+.navbar_img {
+
+	height: 50px;
+	width: 50px;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+#img {
+
+	height: 35px;
+	width: 35px;
+
+}
+
+.container {
+
+	background-color: #DFDEDE;
+
+}
+
+.cajita {
+
+	background-color: #EEEDED;
+
+}
+
+#registroL {
+
+	font-size: 12px;
+}
